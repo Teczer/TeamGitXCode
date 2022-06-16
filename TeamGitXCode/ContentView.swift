@@ -10,6 +10,8 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
+            Text("L'équipe est...")
+            Text("Anne")
             Text("Mehdi")
         }
     }
