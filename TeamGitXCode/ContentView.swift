@@ -13,6 +13,7 @@ struct ContentView: View {
             Text("L'équipe est...")
             Text("Anne")
             Text("Ellana")
+            Text("Margaux")
             Text("Mehdi")
             
         }
