@@ -16,7 +16,7 @@ struct ContentView: View {
             Text("Margaux")
             Text("Mehdi")
             Text("Veronica")
-            Text("IL A PAS DIT BONJOUR  ")
+            Text("On peut pas push c'est de la censure sur ce projet je suis scandalisée !!!!!!!!!!!!!!")
         }
     }
 }
