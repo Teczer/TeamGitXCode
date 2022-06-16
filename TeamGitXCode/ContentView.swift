@@ -12,7 +12,9 @@ struct ContentView: View {
         VStack {
             Text("L'équipe est...")
             Text("Anne")
+            Text("Ellana")
             Text("Mehdi")
+            
         }
     }
 }
